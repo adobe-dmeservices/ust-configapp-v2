@@ -23,6 +23,13 @@ The wizard supports:
 * Enable reading nested group information
 * Enable secure password storage for ldap password
 
+## New Features
+* Updated user interface using React Spectrum components
+* Main config file is now autoloaded on startup
+* Support for configuration of Additional Group Options (Dynamic Grouping)
+* Adobe limit now accepts percentages in addition to integers
+* Supports configuration of old UMAPI connector files (api_key, tech_acct)
+
 You can still add additional keys/edit current key values manually in the configuration files.
 
 Please note, any yml comments and keys order will not be saved during round-trip save, however, the wizard creates a initial backup of config before it updates the configurations.
