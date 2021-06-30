@@ -7,9 +7,8 @@ Overview: https://spark.adobe.com/page/E3hSsLq3G1iVz/
 
 User Sync Tool: https://github.com/adobe-apiplatform/user-sync.py
 
-<img src="https://user-images.githubusercontent.com/63472846/123321288-68ca5300-d4f8-11eb-8b65-fe3bb3094f82.png" height = "250" width = "300"> <img src="https://user-images.githubusercontent.com/63472846/123321293-6a941680-d4f8-11eb-97e2-7619c5deb5ee.png" height = "250" width = "300">
-<img src="https://user-images.githubusercontent.com/63472846/123321297-6bc54380-d4f8-11eb-8fbc-56d428caaa5d.png" height = "250" width = "300">
-
+<img src="https://user-images.githubusercontent.com/63472846/123971247-7ca20900-d97f-11eb-8c04-9911b6f3b6fa.PNG" height = "250" width = "300"> <img src="https://user-images.githubusercontent.com/63472846/123971258-80359000-d97f-11eb-8df2-8acbea12a68d.PNG" height = "250" width = "300">
+<img src="https://user-images.githubusercontent.com/63472846/123971653-db678280-d97f-11eb-8c9b-419d36e187ae.PNG" height = "250" width = "300">
 
 
 ## Supported Features
