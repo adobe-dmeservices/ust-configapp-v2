@@ -10,6 +10,7 @@ User Sync Tool: https://github.com/adobe-apiplatform/user-sync.py
 ## Latest Release 
 Please get the latest release from https://github.com/adobe-dmeservices/ust-configapp-v2/releases/latest
 
+## Preview
 <img src="https://user-images.githubusercontent.com/63472846/123971247-7ca20900-d97f-11eb-8c04-9911b6f3b6fa.PNG" height = "250" width = "300"> <img src="https://user-images.githubusercontent.com/63472846/123971258-80359000-d97f-11eb-8df2-8acbea12a68d.PNG" height = "250" width = "300">
 <img src="https://user-images.githubusercontent.com/63472846/123971653-db678280-d97f-11eb-8c9b-419d36e187ae.PNG" height = "250" width = "300">
 
